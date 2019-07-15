@@ -1,5 +1,5 @@
-// 12-07-2019
+// 13-07-2019
  
-// Consigna:
-// algoritmo que reciba como entrada el sueldo de una persona y sus horas extras trabajadas y luego imprima 
-//el Sueldo total de esta persona dado que cada hora extra vale $3000.
+/*Consigna:
+Algoritmo que lea tres numeros decimales positivos y calcule e imprima el promedio de ellas.
+declaro las notas:*/

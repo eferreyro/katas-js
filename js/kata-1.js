@@ -1,6 +1,4 @@
 // 12-07-2019
- 
-// Consigna:
-// Algoritmo que lea tres numeros decimales positivos y calcule e imprima el promedio de ellas.
-//declaro las notas:
+ //Crear un codigo que reciba un texto y lo muestre de 3 formas distintas en el DOM
+
 

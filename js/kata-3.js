@@ -1,7 +1,7 @@
-// 12-07-2019
+// 14-07-2019
+
+
+ /*Consigna:
+algoritmo que reciba como entrada el sueldo de una persona y sus horas extras trabajadas y luego imprima 
+el Sueldo total de esta persona dado que cada hora extra vale $3000.*/
  
-// Consigna:
-// Algoritmo que calcule lo que gana un empleado con base a las horas trabajadas teniendo en cuenta
-//  que cada hora se paga a 2000, adicionalmente se le realiza unos descuentos con respecto a un
-//  impuesto de seguridad del 10% sobre su salario. el sistema debe imprimir un mensaje indicando 
-//  el nombre del empleado y su sueldo total.
