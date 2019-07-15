@@ -1,4 +1,6 @@
 // 12-07-2019
  
-// Congigna:
-// Algoritmo que lea tres notas y calcule e imprima el promedio de ellas.
+// Consigna:
+// Algoritmo que lea tres numeros decimales positivos y calcule e imprima el promedio de ellas.
+//declaro las notas:
+
