@@ -6,6 +6,7 @@ declaro las notas:*/
 var num1 = prompt('por favor indique el valor 1 de 3');
 var num2 = prompt('por favor indique valor 2 de 3');
 var num3 = prompt('por favor indique valor 3 de 3');
+
 //Convertir String a Numero
 var num1 = parseInt(num1)
 var num2 = parseInt(num2)
