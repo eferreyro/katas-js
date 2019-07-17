@@ -1,6 +1,6 @@
 //17-07-2019
 
-/**
+/* Consigna:
 Pide una nota (número). Muestra la calificación según la nota:
 
 0-3: Muy deficiente

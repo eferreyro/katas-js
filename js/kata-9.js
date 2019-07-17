@@ -1,5 +1,6 @@
 //19-07-2019
-/*Realizar una página con un script que calcule el valor de la letra de un número de DNI 
+/*Consigna:
+Realizar una página con un script que calcule el valor de la letra de un número de DNI 
 (Documento nacional de indentidad).
 
 El algoritmo para calcular la letra del dni es el siguiente :

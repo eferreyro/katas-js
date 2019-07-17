@@ -1,5 +1,6 @@
 //21-07-2019
-/* Haga un algoritmo que solicite 3 notas y valide si un estudiante ganó o perdió una materia, para esto tenga en cuenta:
+/* Consigna:
+Haga un algoritmo que solicite 3 notas y valide si un estudiante ganó o perdió una materia, para esto tenga en cuenta:
 
 Gana la materia con promedio mayor o igual a 3.0
 Puede ganar la materia si esta se pierde con una nota superior a 2.5

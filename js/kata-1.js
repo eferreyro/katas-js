@@ -1,7 +1,7 @@
 // 12-07-2019
  //Crear un codigo que reciba un texto y lo muestre de 3 formas distintas en el DOM
 
-//Caja de alerta pidiendo el dato de entrada
+//Capturo el dato de entrada
  var texto = prompt('Ingrese un texto');
 
 //metodo 1 de mostrar el mensaje por CONSOLA
