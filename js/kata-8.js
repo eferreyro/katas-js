@@ -1,5 +1,5 @@
-//19-07-2019
+//18-07-2019
 
-/* Consigna:
-Realiza un script que pida números hasta que se pulse “cancelar”. Si no es un número deberá indicarse con un «alert»
- y seguir pidiendo. Al salir con “cancelar” deberá indicarse la suma total de los números introducidos. */
+/*Consigna:
+Realiza un script que pida cadenas de texto  hasta que se pulse “cancelar”. Al salir con “cancelar” 
+deben mostrarse todas las cadenas concatenadas con un guión -.*/

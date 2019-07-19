@@ -1,7 +1,11 @@
-//22-07-2019
+//21-07-2019
+/* Consigna:
+Haga un algoritmo que solicite 3 notas y valide si un estudiante ganó o perdió una materia, para esto tenga en cuenta:
 
-/*Consigna:
-De un operario se conoce su sueldo y los años de antigüedad. Se pide crear un programa que lea los datos de entrada e informe:
-•Si el sueldo es inferior a 500 y su antigüedad es igual o superior a 10 años,  otorgarle un aumento del 20 %, mostrar el sueldo a pagar.
-•Si el sueldo es inferior a 500 pero su antigüedad es menor a 10 años, otorgarle un aumento de 5%.
-•Si el sueldo es mayor o igual a 500 mostrar el sueldo en pantalla sin cambios.*/
+Gana la materia con promedio mayor o igual a 3.0
+Puede ganar la materia si esta se pierde con una nota superior a 2.5
+Las notas no pueden ser menores que 0 ni mayores a 5
+Gana la materia con promedio mayor o igual a 3.0
+Puede ganar la materia si esta se pierde con una nota superior a 2.5
+Las notas no pueden ser menores que 0 ni mayores a 5
+En caso de que las notas no se encuentren dentro del rango, se debe indicar cual nota debe ser verificada.*/

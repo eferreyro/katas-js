@@ -1,16 +1,18 @@
-//16-07-2019
 
-/* Pide la edad y si es mayor de 18 años indica que ya puede conducir.*/
+/*Completar las condiciones de los if del siguiente script para que los mensajes se muestren siempre de forma correcta:
 
-const edadBase = 18;
-
-var edad = prompt('Por favor ingrese edad');
-
-if (edad >= edadBase){
-    //Imprimo el nombre y el total del salario
-document.write(`Tienes ${edad} años y puedes conducir`)
-
-}else if(edad <= edadBase){
-    document.write(`Tienes ${edad} y NO puedes conducir`)
-
-};
+var numero1 = 5;
+var numero2 = 8;
+ 
+if(...) {
+  console.log("numero1 no es mayor que numero2");
+}
+if(...) {
+  console.log("numero2 es positivo");
+}
+if(...) {
+  console.log("numero1 es negativo o distinto de cero");
+}
+if(...) {
+  console.log("Incrementar en 1 unidad el valor de numero1 no lo hace mayor o igual que numero2");
+}*/
