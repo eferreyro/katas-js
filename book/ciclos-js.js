@@ -33,6 +33,11 @@ for (i = 0; i <= dias.length -1; i++){
 */
 
  /* BUCLE WHILE
-
+    While es una condicion MIENTRAS. es decir que mientras sea verdadera, va a ejecutar el ciclo,
+    cuando sea falsa, sale del ciclo y entra al primer comando inmediatamente despues del ciclo.
  
  */
+var num = 0;
+while (num <= 10){
+    document.write(`<br> El numero ahora es ${num} </br>`);
+} 
